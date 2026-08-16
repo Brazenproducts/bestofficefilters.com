@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bestofficefilters.com/sitemap.xml
